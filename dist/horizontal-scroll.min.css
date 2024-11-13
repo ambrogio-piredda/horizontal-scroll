@@ -1,0 +1,1 @@
+.horizontal-scroll{display:flex;flex-wrap:nowrap}.horizontal-scroll-container{display:flex;flex-wrap:nowrap;overflow:auto;scrollbar-width:none;white-space:nowrap}.horizontal-scroll-container::-webkit-scrollbar{display:none}.horizontal-scroll-button{cursor:pointer}.horizontal-scroll-button:disabled{cursor:not-allowed}

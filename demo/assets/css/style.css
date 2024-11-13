@@ -1,0 +1,34 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  border-bottom: 1px solid #ccc;
+  color: #333;
+  margin: 0 0 32px;
+  padding: 32px 0;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  /*max-width: 600px;*/
+  max-width: 1200px;
+  padding: 0 16px;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list a {
+  padding: 24px 32px;
+}
